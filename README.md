@@ -2,6 +2,7 @@
 
 Desktop Application to convert GMT to DUBAI time and vice versa.
 - Input time in one widget and leave other input widget as blank.
+- run python -m main
 
 ## About Code:
 
