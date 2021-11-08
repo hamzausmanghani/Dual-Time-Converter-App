@@ -3,7 +3,6 @@ import re
 import datetime as dt
 from style_sheet import *
 from geometry import *
-from label import *
 from font import *
 
 
